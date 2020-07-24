@@ -2,3 +2,5 @@ Eduardo 14
 Joao 28
 Marcia 3
 Katie 78
+Jake 26
+Brooke 28
